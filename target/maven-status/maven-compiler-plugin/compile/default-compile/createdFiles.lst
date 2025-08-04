@@ -1,0 +1,4 @@
+com\ndeyeawadiop\iam\repository\UserRepository.class
+com\ndeyeawadiop\iam\IamMiniManagerApplication.class
+com\ndeyeawadiop\iam\model\User.class
+com\ndeyeawadiop\iam\controller\UserController.class
